@@ -20,7 +20,7 @@ const games = [
         id: 2,
         name: "Shadow of the Colossus",
         category: "PlayStation 2",
-        image: "https://static.wikia.nocookie.net/shadowofthecolossusespaol/images/b/b9/Shadow-colossus.jpg",
+        image: "https://img2-levelup.buscafs.com/46993_256x362.jpg",
         description: "Un joven debe derrotar a 16 gigantes conocidos como Colossi.",
         console: "PlayStation 2",
         details: {
@@ -37,7 +37,7 @@ const games = [
         id: 3,
         name: "God of War II",
         category: "PlayStation 2",
-        image: "https://static.wikia.nocookie.net/godofwarsagas/images/5/57/250px-Gow2-2-1-.jpg",
+        image: "https://static.wikia.nocookie.net/gamezonee/images/b/b9/270px-Portada_God_of_War_II_PS2.jpg/revision/latest?cb=20120829181827&path-prefix=es",
         description: "Basado en la mitología griega. Kratos debe encontrar a las Hermanas del Destino.",
         console: "PlayStation 2",
         details: {
@@ -54,7 +54,7 @@ const games = [
         id: 4,
         name: "Resident Evil 4",
         category: "PlayStation 2",
-        image: "https://static.wikia.nocookie.net/fansresidentevil/images/9/9a/Resident_Evil_4_PS2_Cover.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUuyTt6zYUOfdtBu9KB2mf8yS-8EjnFVVgKA&s",
         description: "Leon S. Kennedy debe rescatar a la hija del presidente secuestrada en España.",
         console: "PlayStation 2",
         details: {
@@ -71,7 +71,7 @@ const games = [
         id: 5,
         name: "Halo: Combat Evolved",
         category: "Xbox",
-        image: "https://static.wikia.nocookie.net/halo/images/2/2b/Portada_Halo_CE.jpeg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjsNf8z91hPYpssWsAHX_0FRqLlHwpMmpNQ&s",
         description: "FPS desarrollado por Bungie Studios. Título debut de la Xbox.",
         console: "Xbox",
         details: {
@@ -122,7 +122,7 @@ const games = [
         id: 8,
         name: "Gears of War 3",
         category: "Xbox 360",
-        image: "https://static.wikia.nocookie.net/gearsofwar/images/8/8d/Gears_of_War_3_Portada.png",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Y8z3rbd7q5p2d6KFcVkt_HzsohXRMFz_Tw&s",
         description: "Shooter en tercera persona. Tercera entrega de la serie.",
         console: "Xbox 360",
         details: {
@@ -224,7 +224,7 @@ const games = [
         id: 14,
         name: "Uncharted 2: Among Thieves",
         category: "PlayStation 3",
-        image: "https://static.wikia.nocookie.net/unchartedpedia/images/4/42/Uncharted_2_portada.jpeg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOlfuxgWOgYipHbeC5Yzd0NBBcWE_8SvCww&s",
         description: "Nathan Drake busca la legendaria Piedra Cintamani.",
         console: "PlayStation 3",
         details: {
@@ -241,7 +241,7 @@ const games = [
         id: 15,
         name: "The Last of Us",
         category: "PlayStation 3",
-        image: "https://static.wikia.nocookie.net/thelastofus/images/f/fe/Portada_Parte_I_limpia.jpeg",
+        image: "https://i.blogs.es/ddd629/the-last-of-us-joel-ellie-ps3/840_560.jpeg",
         description: "Joel y Ellie, supervivientes de una pandemia zombi.",
         console: "PlayStation 3",
         details: {
@@ -326,7 +326,7 @@ const games = [
         id: 20,
         name: "God of War",
         category: "PlayStation 4",
-        image: "https://static.wikia.nocookie.net/godofwar/images/a/a8/Portada_God_of_War_%282018%29.png",
+        image: "https://m.media-amazon.com/images/M/MV5BNjJiNTFhY2QtNzZkYi00MDNiLWEzNGEtNWE1NzBkOWIxNmY5XkEyXkFqcGc@._V1_.jpg",
         description: "Kratos y su hijo Atreus en un viaje por la mitología nórdica.",
         console: "PlayStation 4",
         details: {
